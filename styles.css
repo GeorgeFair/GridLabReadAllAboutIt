@@ -1,5 +1,7 @@
 .container {
-    grid-column: 1/5;
+  display: grid
+
+  grid-column: 1/5;
 
   grid-row: 3/4;
 
@@ -11,13 +13,13 @@
 
   font-size: small;
 
-    grid-column: 1/5;
+  grid-column: 1/5;
 
-    grid-row: 4/7;
+  grid-row: 4/7;
 
-    font-size: small;
+  font-size: small;
 
-    font-family: "Comic Sans MS";
+  font-family: "Comic Sans MS";
 
 }
 
