@@ -137,8 +137,12 @@ footer {
  /* .news, aside, article, footer */
 
 
+  .news, aside, article, footer {
+
     grid-column: 1/5;
 
     grid-row: 3/4;
+
+  }
 
 }
