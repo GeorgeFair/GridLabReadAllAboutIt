@@ -1,4 +1,5 @@
 .container {
+  /*grid display was not initially included. I added that below.*/
   display: grid;
   grid-column: 1/5;
 
