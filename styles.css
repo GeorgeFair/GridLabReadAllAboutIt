@@ -1,5 +1,8 @@
 .container {
   display: grid;
+
+
+
   grid-column: 1/5;
 
   grid-row: 3/4;
@@ -52,6 +55,9 @@ header {
 }
 
 .infoBox img {
+  /* added width to fix uneven image sizes */
+  width: 100%;
+
 
   grid-column: 1/5;
 
@@ -66,9 +72,7 @@ header {
 }
 
 article {
- width: 150px;
-
-  height: 150px;
+  /* removed width and height */
 
   border-radius: 15px;
 
