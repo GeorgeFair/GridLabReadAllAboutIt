@@ -11,6 +11,14 @@
 
   font-size: small;
 
+  grid-column: 1/5;
+
+  grid-row: 4/7;
+
+  font-size: small;
+
+  font-family: "Comic Sans MS";
+
 }
 
 header {
@@ -40,7 +48,7 @@ header {
 
 
 
-    grid-row: 18/19;
+  grid-row: 18/19;
 
 }
 
